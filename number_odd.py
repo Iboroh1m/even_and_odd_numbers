@@ -1,3 +1,4 @@
+#number
 var_int = 7857
 a = var_int // 10             
 b = var_int % 10              
