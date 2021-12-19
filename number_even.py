@@ -1,3 +1,4 @@
+# Number
 var_int = 7824
 a = var_int // 10             
 b = var_int % 10              
