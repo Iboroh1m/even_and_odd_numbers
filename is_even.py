@@ -1,3 +1,2 @@
-number = 42
-number = (number +1)%2
-print(number)
+number = 43
+print((number +1)%2)
